@@ -1,0 +1,23 @@
+{
+  "name": "thermostat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdrmvrm/JS---Thermostat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdrmvrm/JS---Thermostat/issues"
+  },
+  "homepage": "https://github.com/gdrmvrm/JS---Thermostat#readme",
+  "dependencies": {
+    "node": "^17.7.2"
+  }
+}
